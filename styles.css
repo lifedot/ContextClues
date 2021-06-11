@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    text-align: center;
+}
+
+.acc-h3 {
+    width: 100vw;
+    text-align: center;
+}
